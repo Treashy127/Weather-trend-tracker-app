@@ -1,4 +1,4 @@
-Here’s a complete README for your Weather Trend app using your specified tech stack:
+
 
 ---
 
